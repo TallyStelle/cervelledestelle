@@ -7,6 +7,14 @@
 *******************/
 
 
+.Header .container {
+  width: 1365px;
+}
+#Header1_headerimg {
+  width: 1365px;    
+}
+
+
 @media only screen and (min-width: 959px) and (max-width: 1100px){
 
   .Header .container {
